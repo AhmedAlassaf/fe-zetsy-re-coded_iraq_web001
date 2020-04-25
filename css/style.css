@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 @font-face {
 	font-family: 'Baskerville';
-	src: url(../fonts/Baskerville.ttc) format
+	src: url(../fonts/Baskerville.ttc) format("tcc");
 }
 /* link the web font used for the level 1 heading here */
 
