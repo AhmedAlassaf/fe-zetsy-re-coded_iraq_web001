@@ -34,6 +34,9 @@ h2 {
   color: #6f7f7a;
   font-size: 2em;
 }
+p {
+  color: #555;
+}
 .img1 {
   border: 5px solid #98ada6;
 }
