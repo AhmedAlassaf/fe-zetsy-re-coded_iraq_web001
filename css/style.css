@@ -53,5 +53,6 @@ footer {
   float: right;
   font-size: 0.8em;
   background: #fff;
-  margin-right:100px;
+  padding-right:100px;
+  padding-left: 200px;
 }
